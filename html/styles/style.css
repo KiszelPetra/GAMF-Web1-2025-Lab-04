@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+    ul{
+        color: blue;
+    }
+    ul.urgent
+    {
+        color: red;
+        font-family: sans-serif;
+        font-size: 20px;
+        background-color: aqua;
+    }
+    ol li[disabled] {
+        opacity:0.3;
+    }
+    
+</style>
+</head>
+<body>
+   <h1>Gamf FOSZK rules</h1>
+   <h2>Gamf H2</h2>
+   <h6>Gamf H6</h6>
+   <p1>Lorem ipsum dolor sit amet cons</p1>
+
+   <u1>
+    <li>Kenyér</li>
+    <li>Tej</li>
+   </u1>
+   <o1>
+    <li>Fogmosás</li>
+    <li>Reggelizés</li>
+</o1>
+
+<!-- <img src="https://www.google.com/imgres?q=levelib%C3%A9ka&imgurl=https%3A%2F%2Fmme.hu%2Fsites%2Fdefault%2Ffiles%2Fketeltuek_es_hullok%2Fgaleria%2Fhylarb_005_f_halpern_balint_c.jpg&imgrefurl=https%3A%2F%2Fmme.hu%2Fketeltuek-es-hullok%2Fzold-levelibeka&docid=obwjitNCuQfpcM&tbnid=9J-9UgM5b0UksM&vet=12ahUKEwjM7YXT5tKMAxUOHhAIHViyGlwQM3oECFYQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwjM7YXT5tKMAxUOHhAIHViyGlwQM3oECFYQAA" alt="Leveli"> -->
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Age</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Charlie</td>
+            <td>ch@gmail.com</td>
+            <td>100</td>
+            <td>Napoli</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
